@@ -7,4 +7,7 @@ The only requirement for linux based systems is ffmpeg. On Ubuntu/Debian/Linux M
 
 <code>sudo apt-get install ffmpeg</code>
 
+Once ffmpeg is installed, you only need to open a terminal in the same directory as the <i>txt2voice<i> executable and run the file:
+  
+<code>./txt2voice</code>
 
